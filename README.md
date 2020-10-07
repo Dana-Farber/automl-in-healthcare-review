@@ -1,9 +1,9 @@
 # AutoML in Healthcare Review
 Automated machine learning: Review of the state-of-the-art and opportunities for healthcare
 
-Selected highlights from the 2020 AutoML Review [https://doi.org/10.1016/j.artmed.2020.101822]
+Selected highlights from the 2020 AutoML Review [https://doi.org/10.1016/j.artmed.2020.101822] that reviewed over **2,160 works related to the field of automated machine learning**. 
 
-## Table 1. Summary of the different automated feature engineering tools discussed in this section.
+## 1. A curated list of automated feature engineering tools.
 | Method                                                                                                                                                                                                              | Feature Engineering Technique | Citation Count at Time of Publication |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------|
 | [Deep Feature Synthesis](https://dai.lids.mit.edu/wp-content/uploads/2017/10/DSAA_DSM_2015.pdf)                                                                                                                     | Expand-Reduce                 | 151                                   |
@@ -16,7 +16,7 @@ Selected highlights from the 2020 AutoML Review [https://doi.org/10.1016/j.artme
 | [LFE](https://www.researchgate.net/profile/Udayan_Khurana/publication/318829821_Learning_Feature_Engineering_for_Classification/links/5a13e08a0f7e9b1e5730a735/Learning-Feature-Engineering-for-Classification.pdf) | Meta-Learning                 | 34                                    |
 
 
-## Table 2.Summary of the different AutoML Pipeline optimizers discussed in this section
+## 2. Best AutoML pipeline optimizers.
 | Method                                                                                                                             |                Optimization Algorithm                | Data Pre-Processing | Feature Engineering | Model Selection    | Hyperparameter Optimization | Ensemble Learning  | Meta-Learning      | Citation Count at Time of Publication |
 |------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------:|:-------------------:|---------------------|--------------------|-----------------------------|--------------------|--------------------|---------------------------------------|
 | [Auto-Weka](https://arxiv.org/pdf/1208.3719.pdf)                                                                                   | Bayesian Optimization (SMAC)                         | :heavy_check_mark:  |                     | :heavy_check_mark: | :heavy_check_mark:          |                    |                    | 703                                   |
@@ -31,7 +31,7 @@ Selected highlights from the 2020 AutoML Review [https://doi.org/10.1016/j.artme
 | [Collaborative Filtering](https://papers.nips.cc/paper/7595-probabilistic-matrix-factorization-for-automated-machine-learning.pdf) | Probabilistic Matrix Factorization                   | :heavy_check_mark:  |                     | :heavy_check_mark: | :heavy_check_mark:          |                    | :heavy_check_mark: | 29                                    |
 
 
-## Table 3.The performance of several different NAS algorithms on the CIFAR-10 dataset.
+## Curated list of Neural Architecture Search algorithms, based on performance on the CIFAR-10 dataset.
 | NAS Algorithm                                                                                                                                     |       Search Space      |               Search Strategy               | Performance Estimation Strategy              | Number of Parameters | Search Time (GPU-days) | Test Error (%) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------:|:-------------------------------------------:|----------------------------------------------|----------------------|------------------------|----------------|
 | [Large-scale Evolution](https://arxiv.org/pdf/1703.01041.pdf)                                                                                     | Feed-Forward Networks   | Evolutionary Algorithm                      | Naive Training and Validation                | 5.4M                 | 2600                   | 5.4            |
