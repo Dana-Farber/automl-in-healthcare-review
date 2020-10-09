@@ -17,7 +17,7 @@ Full details in https://www.sciencedirect.com/science/article/pii/S0933365719310
 | LFE                     | [LINK](https://www.researchgate.net/profile/Udayan_Khurana/publication/318829821_Learning_Feature_Engineering_for_Classification/links/5a13e08a0f7e9b1e5730a735/Learning-Feature-Engineering-for-Classification.pdf) | Meta-Learning                 | 34                                    |
 
 
-## AutoML pipeline optimizers
+## Automated machine learning pipeline optimizers
 Full details in https://www.sciencedirect.com/science/article/pii/S0933365719310437?via%3Dihub#tbl0010
 | Method                    | Work                                                                                                           | Optimization Algorithm                               | Data Pre-Processing | Feature Engineering | Model Selection    | Hyperparameter Optimization | Ensemble Learning  | Meta-Learning      | Used by how many works |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------|---------------------|--------------------|-----------------------------|--------------------|--------------------|---------------------------------------|
